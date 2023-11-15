@@ -25,7 +25,7 @@ Interação:
 
 ### Testes
 ```bash
-ruby quero_backpack.rb teste
+ruby quero_backpack.rb test
 ``` 
 
 Experimente inserir entradas inválidas para garantir que o programa lida corretamente com esses casos.
